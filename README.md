@@ -29,3 +29,7 @@ The data is stored in the `data` directory. The data is downloaded from the [Qua
 ## Scripts
 
 The scripts are stored in the `scripts` directory. The scripts are stored in the `scripts` directory.
+
+## Notebooks
+
+The notebooks are stored in the `notebooks` directory. The notebooks are stored in the `notebooks` directory.
