@@ -24,7 +24,7 @@ jupyter notebook
 
 ## Data
 
-The data is stored in the `data` directory. The data is downloaded from the [Quantopian](https://www.quantopian.com/) website. The data is stored in the `data` directory. The data is downloaded from the [Quantopian](https://www.quantopian.com/) website.
+The data is stored in the `data` directory. The data is downloaded from the XYZ website. The data is stored in the `data` directory.
 
 ## Scripts
 
